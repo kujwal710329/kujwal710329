@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal kumar</h1>
-<h3 align="center">A passionate frontend dSoftware developer with a passion for creating innovative solutions, interested in Machine Learning,eveloper from India</h3>
+<h3 align="center">A passionate frontend Software developer with a passion for creating innovative solutions, interested in Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kujwal710329&label=Profile%20views&color=0e75b6&style=flat" alt="kujwal710329" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ujjwal-dev.netlify.app/](https://ujjwal-dev.netlify.app/)
 
-- 💬 Ask me about **webdevelopment, machine learning**
+- 💬 Ask me about **web development, machine learning**
 
 - 📫 How to reach me **kujwal7103297@gmail.com**
 
