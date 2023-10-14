@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://ujjwal-dev.netlify.app/](https://ujjwal-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ujjwal-dev.vercel.app/)
 
 - 💬 Ask me about **web development, machine learning**
 
