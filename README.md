@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ujjwal kumar</h1>
-<h3 align="center">A passionate frontend Software developer with a passion for creating innovative solutions, interested in Machine Learning</h3>
+<h3 align="center">A passionate Software developer with a passion for creating innovative solutions, interested in Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kujwal710329&label=Profile%20views&color=0e75b6&style=flat" alt="kujwal710329" /> </p>
 
-- 🔭 I’m currently working on **explore-world**
+- 🔭 I’m currently working on **Cloud Log Shipper** (cloud bases security management tool)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **System Design & Distributed system**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ujjwal-dev.vercel.app/)
+<!-- 👨‍💻 All of my projects are available at [Portfolio](https://ujjwal-dev.vercel.app/) -->
 
-- 💬 Ask me about **web development, machine learning**
+- 💬 Ask me about **Backend Development, System Design, Distributed system and machine learning**
 
 - 📫 How to reach me **kujwal7103297@gmail.com**
+  
+- 📫 How to reach me **8521382660**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
